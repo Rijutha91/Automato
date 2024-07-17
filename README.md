@@ -1,1 +1,1 @@
-# Automato
+# Automato-java project
